@@ -14,7 +14,7 @@ Published by GitHub Pages from `main`, served at <https://trabelsiachraf.com/cli
 | Accessibility (bilingual page) | <https://trabelsiachraf.com/clipdori-site/accessibility.html> | same page |
 
 - App Store: <https://apps.apple.com/app/id6816525366> (in review, not on sale yet)
-- App source: <https://github.com/TrabelsiAchraf/clipdori> (private)
+- App source: private repository (TrabelsiAchraf/clipdori)
 - Contact: trabelsiachraf.devapps@gmail.com
 
 ## Local preview
