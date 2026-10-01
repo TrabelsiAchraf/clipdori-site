@@ -6,16 +6,13 @@ Published by GitHub Pages from `main`, served at <https://trabelsiachraf.com/cli
 
 ## Links
 
-| | English | Français |
-|---|---|---|
-| Website | <https://trabelsiachraf.com/clipdori-site/> | <https://trabelsiachraf.com/clipdori-site/fr/> |
-| Support (bilingual page) | <https://trabelsiachraf.com/clipdori-site/support.html> | same page |
-| Privacy (bilingual page) | <https://trabelsiachraf.com/clipdori-site/privacy.html> | same page |
-| Accessibility (bilingual page) | <https://trabelsiachraf.com/clipdori-site/accessibility.html> | same page |
-
-- Mac App Store: <https://apps.apple.com/app/id6816525366> · iPhone & iPad: in review
+- Website: <https://trabelsiachraf.com/clipdori-site/>
+- Support: <https://trabelsiachraf.com/clipdori-site/support.html>
+- Privacy: <https://trabelsiachraf.com/clipdori-site/privacy.html>
+- Accessibility: <https://trabelsiachraf.com/clipdori-site/accessibility.html>
+- Mac App Store: <https://apps.apple.com/app/id6816525366> (iPhone & iPad: in review)
 - App source: private repository (TrabelsiAchraf/clipdori)
-- Contact: trabelsiachraf.devapps@gmail.com
+- Contact: <trabelsiachraf.devapps@gmail.com>
 
 ## Local preview
 
